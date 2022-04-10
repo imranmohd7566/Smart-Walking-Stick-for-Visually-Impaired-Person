@@ -1,2 +1,4 @@
 # Smart-Walking-Stick-for-Visually-Impaired-Person
-Using a camera module and raspberry pi which does an image processing of the image taken which has text in it and the text is processed into audio speech which is send through earphones for the blind person to help him navigate easily.And it also uses an ultrasonic sensor which detects an obstacle in 2-3m range an alerts the blind person.
+This is a complete hardware and software development of a Smart Walking Stick which consists of two main components:
+  1. An ultrasonic sensor that can help detect an obstacle in a 2-3 meter range and give a buzzer to the person to alert him.
+  2. A camera is used to capture a photo(name written on the shopboards/any directions written on the road) which can help pronounce the text captured in it through a speaker connected to the Raspberry board.
